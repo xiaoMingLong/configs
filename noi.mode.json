@@ -194,6 +194,60 @@
       "parent": "noi@video",
       "text": "YouTube",
       "url": "https://www.youtube.com"
+    },
+   {
+      "id": "noi@aiCN",
+      "parent": 0,
+      "dir": true,
+      "text": "AI（内陆版）"
+    },
+     {
+      "id": "noi:cozeCN",
+      "parent": "noi@aiCN",
+      "text": "扣子",
+      "url": "https://www.coze.cn/home"
+    },
+    {
+      "id": "noi:doubao",
+      "parent": "noi@aiCN",
+      "text": "豆包",
+      "url": "https://www.doubao.com"
+    },
+    {
+      "id": "noi:chatglm",
+      "parent": "noi@aiCN",
+      "text": "智谱清言",
+      "url": "https://chatglm.cn"
+    },
+    {
+      "id": "noi:tongyiqianwen",
+      "parent": "noi@aiCN",
+      "text": "通义千问",
+      "url": "https://tongyi.aliyun.com/qianwen"
+    },
+    {
+      "id": "noi:yiyan",
+      "parent": "noi@aiCN",
+      "text": "文心一言",
+      "url": "https://yiyan.baidu.com"
+    },
+    {
+      "id": "noi:xinghuo",
+      "parent": "noi@aiCN",
+      "text": "讯飞星火",
+      "url": "https://xinghuo.xfyun.cn"
+    },
+    {
+      "id": "noi:kimi",
+      "parent": "noi@aiCN",
+      "text": "Kimi",
+      "url": "https://kimi.moonshot.cn"
+    },
+    {
+      "id": "noi:metaso",
+      "parent": "noi@aiCN",
+      "text": "秘塔",
+      "url": "https://metaso.cn"
     }
   ]
 }
